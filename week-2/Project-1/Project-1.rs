@@ -11,7 +11,7 @@ fn main() {
 	println!("Amount is {}", a);
 
 	// let ci represent compouund interest
-	let ci = a-p;
+	let ci = a - p;
     println!("Compound Interest is {}", ci);
     
 }
