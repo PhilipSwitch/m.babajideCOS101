@@ -1,3 +1,0 @@
-Welcome to Rust programming
-Week 9 - Rust file input & output 
-Department of Computer Science
