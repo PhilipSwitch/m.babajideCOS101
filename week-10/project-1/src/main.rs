@@ -66,6 +66,7 @@ fn main() {
 i.e. Hewlett Packard, IBM, Toshiba and Dell is ₦{}",total_price.to_formatted_string(&Locale::en));
 
     println!{"Thank you for using my program! ❤️😊"};
+ 
  //Company:String is unused in the program but i still put it there 
 
 
